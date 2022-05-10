@@ -1,0 +1,118 @@
+
+
+img {
+    width: 200px;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    text-align: center;
+    color: #cc54ff;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    border: 8px solid #79f7e4;
+    padding: 10px;
+    background-color: #ebfaf9;
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    border: 5px dashed #ed91ff;
+    padding: 3px;
+    background-color: #ebfaf9;
+}
+
+.albums {
+    display: flex;
+    justify-content: center;
+    border: 5px solid #84acf5;
+    padding: 3px;
+    background-color: #ebfaf9;
+}
+
+html {
+    background-image: linear-gradient(to right top, #a9cdd7, #b1d0e7, #c3d0f2, #ddcef4, #f8cced);
+}
+
+.headshot {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    border: 5px solid #84acf5;
+    padding: 12px;
+    background-color: #ebfaf9;
+
+
+
+
+}
+
+.video {
+    
+    height: 300px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 15px;
+
+}
+
+.drake2 {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    border: 5px solid #84acf5;
+    padding: 12px;
+    background-color: #ebfaf9;
+
+
+}
+
+.drake3 {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    border: 5px solid #84acf5;
+    padding: 12px;
+    background-color: #ebfaf9;
+}
+
+.photo { max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    border: 5px dotted #31e8c6;
+    padding: 12px;
+    background-color: #e6fce6;
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: #7dadff;
+    
+    
+    
+    
+    
+}
